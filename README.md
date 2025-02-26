@@ -3,6 +3,8 @@
 RFC 7440 modified tftpd-hpa server
 
 ```
+[ec2-user@ip-172-31-69-236 ~]$ wget https://github.com/sigitp-git/scratch-tftp-al2023/raw/refs/heads/main/scratch-tftp.zip
+
 [ec2-user@ip-172-31-69-236 ~]$ unzip scratch-tftp.zip
 Archive:  scratch-tftp.zip
 
